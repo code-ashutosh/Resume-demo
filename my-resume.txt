@@ -2,4 +2,4 @@
                                                           Currently I am A student of Hbtu 
                                                           
                                                           
-                                                          Tech Stack : NodeJs, ReactJs, VsCode
+                                                          Tech Stack : NodeJs, ReactJs, VsCode, Docker, Google Cloud
