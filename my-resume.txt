@@ -1,2 +1,5 @@
                                                           Name : Ashutosh Trivedi
                                                           Currently I am A student of Hbtu 
+                                                          
+                                                          
+                                                          Tech Stack : NodeJs, ReactJs, VsCode
